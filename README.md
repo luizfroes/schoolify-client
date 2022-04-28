@@ -1,6 +1,6 @@
 ![Schoolify](./src/assets/img/homeImg.png)
 
-You can view the deployed application [here](https://crush-app-2022.herokuapp.com/).
+You can view the deployed application [here](https://schoolify2022.herokuapp.com/).
 
 ## Table of Contents
 
@@ -168,6 +168,6 @@ This project is licensed under the terms of the MIT license.
 
 please contact me through the links below:
 
-[GitHub](https://github.com/fudge88) Profile
+[GitHub](https://github.com/luizfroes) Profile
 
-Email: f.akhlaq@outlook.com
+Email: luizfroes@gmail.com
